@@ -14,3 +14,29 @@
 # 2. Purchase Domain from NiagaHoster
 ## Sign up/Log in to Niagahoster first.
 ![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/fadddba0-3f5f-401e-bd49-6e78c6d1143b)
+## Search the domain name
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/74426233-db35-416b-8638-4328c93698f7)
+## Choose your preference and then if the domain name is available. you will get the domain easily after purchase
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/b840181d-5eaf-4fe0-beee-119ee9f8feb4)
+## Check the box and Continue the payment (don't forget to choose the payment method)
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/e3992dbf-ec21-4855-8f24-645ae338c6eb)
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/632aaad8-f7cc-4fff-8130-b24106c0bfdd)
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/64af8e10-f409-493f-8d11-840d04727da6)
+# Set Up your SSL
+## Sign up/Log in to Cloudflare first.
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/8122fb1d-0b3a-49eb-abe2-11a1b9865759)
+## Click Add Website and Fill email and password
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/fe2d29c3-b8ca-48a7-8ae9-3ed68e83c43e)
+## Click Add a Website
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/f00bc6e4-92ed-4841-a10e-7cdbdc4abc02)
+## Click Continue
+![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/69e93d5b-6203-46f1-978b-daf15f587e0d)
+
+
+
+
+
+
+
+
+
