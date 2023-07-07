@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html nighteye="disabled">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Aranara Apretiation Cult"/>
+    <meta name="keywords" content="HTML, CSS, JavaScript" />
+    <meta name="author" content="Zhafirah Rizqy Nur" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aranara Cult</title>
+    <link rel="stylesheet" href="style1.css" />
+    <link rel="stylesheet" href="responsive.css" />
+    <link
+      rel="icon"
+      href="https://static.wikia.nocookie.net/gensin-impact/images/0/00/Aranara_Emblem.png"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <nav>
+      <span class="mobile">
+        <img
+          src="https://static.wikia.nocookie.net/gensin-impact/images/0/00/Aranara_Emblem.png"
+          alt="Hamburger Icon"
+        />
+      </span>
+      <span class="relative-container">
+        <img
+          src="https://static.wikia.nocookie.net/gensin-impact/images/8/8e/NPC_Ararycan.png"
+          alt="Aranara Apretiation Cult Pic"
+        />
+        <b>Aranara Cult</b>
+      </span>
+      <ul class="desktop">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">History</a></li>
+        <li><a href="#">Call Us</a></li>
+      </ul>
+      <span id="dark-mode-switch">
+        <p>Dark Mode</p>
+        <label class="switch">
+          <input id="checkbox-dark-mode" onchange="toggleDarkMode()" type="checkbox">
+          <span class="slider round"></span>
+        </label>
+      </span>
+    </nav>
+    <header class="full-screen" id="header">
+      <h1>Aranara Apretiation Cult</h1>
+      <p>Welcome to Aranara Apretiation Cult</p>
+      <p>Reject Humantity, Become Aranara</p>
+    </header>
+    <main>
+      <section id="penguin-photos">
+        <h2>Hall of Fame</h2>
+        <div class="grid-container">
+          <div id="item-1">
+            <img
+              src="https://media.tenor.com/hpDR7T63mdsAAAAd/aranara.gif"
+              alt="Dancing Aranara"
+            />
+          </div>
+          <div id="item-2">
+            <img
+              src="https://static.wikia.nocookie.net/gensin-impact/images/3/3e/NPC_Confused_Aranara.png"
+              alt="Aranara Bingung"
+            />
+          </div>
+          <div id="item-3">
+            <img
+              src="https://media.tenor.com/jtjdty8rk5YAAAAd/aranara-genshin-impact.gif"
+              alt="Aranara Jalan "
+            />
+          </div>
+          <div id="item-4">
+            <img
+              src="https://media.tenor.com/Pua1OL0gsz8AAAAd/aranara-genshin.gif"
+              alt="Happy Aranara"
+            />
+          </div>
+          <div id="item-5">
+            <img
+              src="https://media.tenor.com/sBDGBh5uAEkAAAAd/aranara-genshin-impact.gif"
+              alt="Chillin' Aranara"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section id="penguin-facts">
+        <h2>Interesting Facts About Aranara</h2>
+        <div class="flex-container">
+          <ul>
+            <li>Aranara can Fly, Because in their head there is a propeller</li>
+            <li>Aranara can cook</li>
+            <li>Aranara can 1v1 you if you disrespect them</li>
+            <li>Last but not least, Aranara is the cutest and bravest creature in Teyvat~</li>
+          </ul>
+          <figure>
+            <img
+              media="(max-width: 480px)"
+              srcset="https://static.wikia.nocookie.net/gensin-impact/images/3/33/World_Quest_Cooking_the_Flavor_of_Nature.png"
+              alt="Cooking Aranara."
+            />
+            <figcaption>Aranara <em>cooks</em> in the forest.</figcaption>
+          </figure>
+        </div>
+      </section>
+      <section id="section-video">
+        <h2>Let's Dancing with Aranara</h2>
+        <div class="flex-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/TMTRBvM4H14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      </section>
+
+      <section id="form-section">
+        <h2>Become Our Member</h2>
+        <form action="#">
+          <fieldset>
+            <legend>Biography:</legend>
+            <div>
+              <label for="fullName">Name:</label>
+              <input id="fullName" type="text" required />
+            </div>
+
+            <div>
+              <label for="email">Email:</label>
+              <input id="email" type="email" required />
+            </div>
+            <div>
+              <label for="dob">Date of Birth</label>
+              <input
+                type="date"
+                id="dob"
+                name="trip-start"
+                value="2023-07-22"
+              />
+            </div>
+            <div>
+              <p>Are you living in Earth/Teyvat?</p>
+              <input type="radio" id="yes" name="isTeyvat" value="Male" />
+              <label for="yes">Yes</label>
+              <input type="radio" id="no" name="isAbyss" value="Female" />
+              <label for="no">No</label>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>Additional information:</legend>
+            <div>
+              <p>Your Toughts about Aranara?</p>
+              <input
+                id="kind"
+                type="checkbox"
+                name="personality"
+                value="kind"
+              />
+              <label for="kind">Kind</label>
+              <input
+                id="adorable"
+                type="checkbox"
+                name="personality"
+                value="adorable"
+              />
+              <label for="adorable">Adorable</label>
+              <input
+                id="brave"
+                type="checkbox"
+                name="personality"
+                value="brave"
+              />
+              <label for="brave">Brave</label>
+              <input
+                id="clumsy"
+                type="checkbox"
+                name="personality"
+                value="clumsy"
+              />
+              <label for="clumsy">Clumsy</label>
+            </div>
+            <div>
+              <p>Why you wanna join this Cult and Your aspiration about Aranara</p>
+              <textarea rows="5"></textarea>
+            </div>
+            <div>
+              <p>Upload your favorite Aranara moment:</p>
+              <input
+                type="file"
+                id="photo"
+                name="AranaraPhoto"
+                required
+                accept="image/png, image/jpeg"
+              />
+            </div>
+          </fieldset>
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+    <script>
+      // initial state
+      if (localStorage.getItem("darkMode") === "true") {
+        document.getElementById("checkbox-dark-mode").checked = true;
+        document.body.classList.add("dark-mode");
+      }
+
+      function toggleDarkMode() {
+        document.body.classList.toggle("dark-mode");
+        if (!document.getElementById("checkbox-dark-mode").checked) {
+          localStorage.setItem("darkMode", false);
+        } else {
+          localStorage.setItem("darkMode", true);
+        }
+      }
+    </script>
+  </body>
+</html>
