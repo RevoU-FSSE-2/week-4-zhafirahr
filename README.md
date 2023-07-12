@@ -31,8 +31,7 @@
 ![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/f00bc6e4-92ed-4841-a10e-7cdbdc4abc02)
 ## Click Continue
 ![image](https://github.com/RevoU-FSSE-2/week-4-zhafirahr/assets/47013275/69e93d5b-6203-46f1-978b-daf15f587e0d)
-
-
+<h3>Untuk ujicoba, silakan klik link ini![link](http://placeblog.site)</h3>
 
 
 
